@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1784623526412,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1784623526413,
+          "items": [],
+          "title": "Prerequisites"
+        },
+        {
+          "type": "group",
+          "ctime": 1784809083290,
+          "items": [],
+          "title": "Manage Identities and Governance"
+        },
+        {
+          "type": "group",
+          "ctime": 1784809083290,
+          "items": [],
+          "title": "Manage Identities and Governance"
+        },
+        {
+          "type": "group",
+          "ctime": 1784645419975,
+          "items": [],
+          "title": "Infrastructure as Code (IaC)"
+        },
+        {
+          "type": "group",
+          "ctime": 1784623530971,
+          "items": [],
+          "title": "Images(Ignore)"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
