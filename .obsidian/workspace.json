@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manage Identities and Governance/7. External Identities.md",
+                "file": "Compute Resources/1. Virtual Machines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. External Identities"
+              "title": "1. Virtual Machines"
             }
           }
         ]
@@ -71,7 +71,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -188,27 +191,34 @@
   },
   "active": "f5a81777cccaf8e0",
   "lastOpenFiles": [
-    "Manage Identities and Governance/6. Self-service Password Reset.md",
-    "Manage Identities and Governance/7. External Identities.md",
-    "Manage Identities and Governance/5. Role-Based Access Control (RBAC).md",
+    "Storage/3. Securing Storage.md",
+    "Compute Resources/1. Virtual Machines.md",
+    "Compute Resources",
+    "Storage/4. Azure Files.md",
+    "Images(Ignore)/Pasted image 20260805135840.png",
+    "Images(Ignore)/Pasted image 20260805134231.png",
+    "Images(Ignore)/Pasted image 20260805133910.png",
+    "Images(Ignore)/Pasted image 20260805132629.png",
+    "Storage/2. Blob Storage.md",
+    "Storage/1. Storage Accounts.md",
+    "Images(Ignore)/Pasted image 20260804202957.png",
+    "Images(Ignore)/Pasted image 20260804201914.png",
+    "Images(Ignore)/Pasted image 20260804200910.png",
     "Manage Identities and Governance/4. Policy and Governance.md",
     "Manage Identities and Governance/2. Identities.md",
+    "Images(Ignore)/Pasted image 20260803223915.png",
+    "Images(Ignore)/Pasted image 20260803220437.png",
+    "Images(Ignore)/Pasted image 20260803215752.png",
     "Manage Identities and Governance/3. Core Architectural Components.md",
+    "Manage Identities and Governance/6. Self-service Password Reset.md",
+    "Manage Identities and Governance/5. Role-Based Access Control (RBAC).md",
+    "Infrastructure as Code (IaC)/1. Azure Resource Manager (ARM) Template.md",
+    "Manage Identities and Governance/7. External Identities.md",
+    "Storage",
     "Manage Identities and Governance/1. Entra ID.md",
     "Infrastructure as Code (IaC)/2. Bicep.md",
-    "Infrastructure as Code (IaC)/1. Azure Resource Manager (ARM) Template.md",
     "Prerequisites/2. Azure Cloud Shell.md",
     "Prerequisites/1. PowerShell.md",
-    "Images(Ignore)/Pasted image 20260801174116.png",
-    "Images(Ignore)/Pasted image 20260801173949.png",
-    "Images(Ignore)/Pasted image 20260801173918.png",
-    "Images(Ignore)/Pasted image 20260801173023.png",
-    "Images(Ignore)/Pasted image 20260731155729.png",
-    "Images(Ignore)/Pasted image 20260731155748.png",
-    "Images(Ignore)/Pasted image 20260731154653.png",
-    "Images(Ignore)/Pasted image 20260730151505.png",
-    "Images(Ignore)/Pasted image 20260730150638.png",
-    "Images(Ignore)/Pasted image 20260730150348.png",
     "Manage Identities and Governance",
     "Azure PowerShell.md",
     "Notes",
@@ -218,7 +228,6 @@
     "Scripts/template",
     "Scripts",
     "Images(Ignore)",
-    "Untitled.md",
-    "Prerequisites"
+    "Untitled.md"
   ]
 }

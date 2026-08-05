@@ -24,6 +24,18 @@
         },
         {
           "type": "group",
+          "ctime": 1785741789121,
+          "items": [],
+          "title": "Storage"
+        },
+        {
+          "type": "group",
+          "ctime": 1785927666804,
+          "items": [],
+          "title": "Compute Resources"
+        },
+        {
+          "type": "group",
           "ctime": 1784645419975,
           "items": [],
           "title": "Infrastructure as Code (IaC)"
