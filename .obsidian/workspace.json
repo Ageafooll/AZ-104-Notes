@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute Resources/1. Virtual Machines.md",
+                "file": "Compute Resources/4. App Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Virtual Machines"
+              "title": "4. App Service"
             }
           }
         ]
@@ -191,31 +191,37 @@
   },
   "active": "f5a81777cccaf8e0",
   "lastOpenFiles": [
-    "Storage/3. Securing Storage.md",
+    "Compute Resources/3. App Service Plans.md",
+    "Compute Resources/4. App Service.md",
+    "Manage Identities and Governance/2. Identities.md",
     "Compute Resources/1. Virtual Machines.md",
+    "Manage Identities and Governance/4. Policy and Governance.md",
+    "Manage Identities and Governance/5. Role-Based Access Control (RBAC).md",
+    "Manage Identities and Governance/3. Core Architectural Components.md",
+    "Manage Identities and Governance/1. Entra ID.md",
+    "Compute Resources/5. Containers.md",
+    "Compute Resources/2. VM Availability.md",
+    "Networking/1. Virtual Networks.md",
+    "Networking",
+    "Images(Ignore)/Pasted image 20260809142243.png",
+    "Images(Ignore)/Pasted image 20260809142225.png",
+    "Images(Ignore)/Pasted image 20260809142145.png",
+    "Images(Ignore)/Pasted image 20260809135710.png",
+    "Images(Ignore)/Pasted image 20260809142045.png",
+    "Images(Ignore)/Pasted image 20260721121708.png",
+    "Images(Ignore)/Pasted image 20260809133541.png",
+    "Images(Ignore)/Pasted image 20260809133301.png",
+    "Images(Ignore)/Pasted image 20260808121730.png",
+    "Images(Ignore)/Pasted image 20260808120516.png",
+    "Storage/3. Securing Storage.md",
     "Compute Resources",
     "Storage/4. Azure Files.md",
-    "Images(Ignore)/Pasted image 20260805135840.png",
-    "Images(Ignore)/Pasted image 20260805134231.png",
-    "Images(Ignore)/Pasted image 20260805133910.png",
-    "Images(Ignore)/Pasted image 20260805132629.png",
     "Storage/2. Blob Storage.md",
     "Storage/1. Storage Accounts.md",
-    "Images(Ignore)/Pasted image 20260804202957.png",
-    "Images(Ignore)/Pasted image 20260804201914.png",
-    "Images(Ignore)/Pasted image 20260804200910.png",
-    "Manage Identities and Governance/4. Policy and Governance.md",
-    "Manage Identities and Governance/2. Identities.md",
-    "Images(Ignore)/Pasted image 20260803223915.png",
-    "Images(Ignore)/Pasted image 20260803220437.png",
-    "Images(Ignore)/Pasted image 20260803215752.png",
-    "Manage Identities and Governance/3. Core Architectural Components.md",
     "Manage Identities and Governance/6. Self-service Password Reset.md",
-    "Manage Identities and Governance/5. Role-Based Access Control (RBAC).md",
     "Infrastructure as Code (IaC)/1. Azure Resource Manager (ARM) Template.md",
     "Manage Identities and Governance/7. External Identities.md",
     "Storage",
-    "Manage Identities and Governance/1. Entra ID.md",
     "Infrastructure as Code (IaC)/2. Bicep.md",
     "Prerequisites/2. Azure Cloud Shell.md",
     "Prerequisites/1. PowerShell.md",
@@ -227,7 +233,6 @@
     "Scripts/azure-deploy.json",
     "Scripts/template",
     "Scripts",
-    "Images(Ignore)",
     "Untitled.md"
   ]
 }
