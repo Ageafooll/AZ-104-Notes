@@ -8,13 +8,13 @@
           "type": "group",
           "ctime": 1784623526413,
           "items": [],
-          "title": "Prerequisites"
+          "title": "1. Prerequisites"
         },
         {
           "type": "group",
           "ctime": 1784809083290,
           "items": [],
-          "title": "Identities and Governance"
+          "title": "2. Identities and Governance"
         },
         {
           "type": "group",
@@ -26,25 +26,31 @@
           "type": "group",
           "ctime": 1785741789121,
           "items": [],
-          "title": "Storage"
+          "title": "3. Storage"
         },
         {
           "type": "group",
           "ctime": 1785927666804,
           "items": [],
-          "title": "Compute Resources"
+          "title": "4. Compute Resources"
         },
         {
           "type": "group",
           "ctime": 1786274664161,
           "items": [],
-          "title": "Networking"
+          "title": "5. Networking"
+        },
+        {
+          "type": "group",
+          "ctime": 1787553722698,
+          "items": [],
+          "title": "6. Backup and Monitor"
         },
         {
           "type": "group",
           "ctime": 1784645419975,
           "items": [],
-          "title": "Infrastructure as Code (IaC)"
+          "title": "7. Infrastructure as Code (IaC)"
         },
         {
           "type": "group",
